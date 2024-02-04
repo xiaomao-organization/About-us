@@ -9,3 +9,7 @@
 一只普通的喵
 
 这个README是他写的
+
+![Gwendolyngo](https://github.com/xiaomao-organization/About-us/assets/146637870/c20e9e78-b552-4ca3-91dd-ec56b19b5b90)
+# Gwendolyngo
+啥也不是
