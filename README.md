@@ -1,6 +1,8 @@
 
 # About-us
 我们是一群热爱开源的人
+
+[![Telegram group](https://img.shields.io/badge/Telegram-group-white?style=social&logo=Telegram)](https://t.me/+KWY6MmPwytljODhl)
 ### 成员列表
 ![战神小猫](https://github.com/xiaomao-organization/About-us/assets/146637870/5ea31fe6-4600-446e-84aa-8529152af26b)
 <div align="center">
